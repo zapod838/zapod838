@@ -12,7 +12,8 @@
 
 ### Languages and Tools 🛠️
 
-[Flutter](https://img.shields.io/badge/-Flutter-02569B?&logo=flutter)
+[[Flutter](https://img.shields.io/badge/-Flutter-02569B?&logo=flutter)
+](https://img.shields.io/badge/-FLUTTER-02569B?logo=flutter&logoColor=white&style=fot-the-badge)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?&logo=dart)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
