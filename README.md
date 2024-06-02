@@ -1,7 +1,5 @@
 ## Hello, I'm Manish! 👋
 
----
-
 ### About Me 🌐
 - 🎓 I'm currently studying Business Analytics at University College Cork, Ireland.
 - 🔭 I’m currently working on RSNA Breast Cancer Detection Project.
