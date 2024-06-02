@@ -1,6 +1,6 @@
-# Hello, I'm Manish! 👋
+## Hello, I'm Manish! 👋
 
-## About Me 🌐
+### About Me 🌐
 - 🎓 I'm currently studying Business Analytics at University College Cork, Ireland.
 - 🔭 I’m currently working on RSNA Breast Cancer Detection Project.
 - 🌱 I’m currently learning Reactpy and Flutter.
@@ -8,7 +8,7 @@
 - 💬 Ask me about AI/ML/LLMs.
 - 📫 How to reach me: Ping me on [Linkdin](https://www.linkedin.com/in/manish-kamble-47840a234/).
 
-## Languages and Tools 🛠️
+### Languages and Tools 🛠️
 
 [Flutter](https://img.shields.io/badge/-Flutter-02569B?&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?&logo=dart)
@@ -22,19 +22,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code)
 
-## My GitHub Stats 📊
+### My GitHub Stats 📊
 
 ![zapod838's GitHub stats](https://github-readme-stats.vercel.app/api?username=zapod838&show_icons=true&theme=radical)
 
-## Projects 📁
+### Projects 📁
 
-### [Project Name 1](GitHub-Link)
-Brief description of Project 1. What it does and why it is useful.
+📂 You can check out some of my work and projects on my GitHub profile.
 
-### [Project Name 2](GitHub-Link)
-Brief description of Project 2. What it does and why it is useful.
-
-## Reach Out to Me 📬
+### Reach Out to Me 📬
 
 - LinkedIn: [[Your LinkedIn](LinkedIn-Link)](https://www.linkedin.com/in/manish-kamble-47840a234/)
 - Email: [Your Email](mailto:kmaneesh838.z@gmail.com)
