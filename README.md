@@ -1,5 +1,7 @@
 ## Hello, I'm Manish! 👋
 
+---
+
 ### About Me 🌐
 - 🎓 I'm currently studying Business Analytics at University College Cork, Ireland.
 - 🔭 I’m currently working on RSNA Breast Cancer Detection Project.
@@ -7,6 +9,8 @@
 - 👯 I’m looking to collaborate on integrating AI in healthcare/Sports/Law/Finance.
 - 💬 Ask me about AI/ML/LLMs.
 - 📫 How to reach me: Ping me on [Linkdin](https://www.linkedin.com/in/manish-kamble-47840a234/).
+
+---
 
 ### Languages and Tools 🛠️
 
@@ -22,15 +26,23 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code)
 
+---
+
 ### My GitHub Stats 📊
 
 ![zapod838's GitHub stats](https://github-readme-stats.vercel.app/api?username=zapod838&show_icons=true&theme=radical)
+
+---
 
 ### Projects 📁
 
 📂 You can check out some of my work and projects on my GitHub profile.
 
+---
+
 ### Reach Out to Me 📬
 
 - LinkedIn: [[Your LinkedIn](LinkedIn-Link)](https://www.linkedin.com/in/manish-kamble-47840a234/)
 - Email: [Your Email](mailto:kmaneesh838.z@gmail.com)
+
+---
