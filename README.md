@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Reactpy and Flutter.
 - 👯 I’m looking to collaborate on integrating AI in healthcare/Sports/Law/Finance.
 - 💬 Ask me about AI/ML/LLMs.
-- 📫 How to reach me: Ping me on [Linkdin](https://www.linkedin.com/in/manish-kamble-47840a234/).
+- 📫 How to reach me: Ping me on [Linkdin](https://www.linkedin.com/in/manish-kamble-47840a234/)
 
 ---
 
