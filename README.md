@@ -41,6 +41,6 @@
 ### Reach Out to Me 📬
 
 - [LinkedIn](https://www.linkedin.com/in/manish-kamble-47840a234/)
-- Email: kmaneesh838.z@gmail.com
+- kmaneesh838.z@gmail.com
 
 ---
