@@ -3,7 +3,7 @@
 ### About Me 🌐
 - 🎓 I'm currently studying Business Analytics at University College Cork, Ireland.
 - 🔭 I’m currently working on RSNA Breast Cancer Detection Project.
-- 🌱 I’m currently learning Reactpy and Flutter.
+- 🌱 I’m currently learning React and Flutter.
 - 👯 I’m looking to collaborate on integrating AI in healthcare/Sports/Law/Finance.
 - 💬 Ask me about AI/ML/LLMs.
 - 📫 How to reach me: Ping me on [Linkdin](https://www.linkedin.com/in/manish-kamble-47840a234/)
