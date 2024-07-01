@@ -12,6 +12,10 @@
 
 ### Languages and Tools 🛠️
 
+Here is the updated list with Django, Databricks, MLflow, Node.js, and Kubernetes added:
+
+### Languages and Tools 🛠️
+
 ![Flutter](https://img.shields.io/badge/-FLUTTER-02569B?logo=flutter&logoColor=white&style=fot-the-badge)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?&logo=dart)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
@@ -23,6 +27,11 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code)
+![Django](https://img.shields.io/badge/-Django-092E20?&logo=django&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?&logo=databricks&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?&logo=mlflow&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes&logoColor=white)
 
 ---
 
