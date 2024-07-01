@@ -16,22 +16,22 @@ Here is the updated list with Django, Databricks, MLflow, Node.js, and Kubernete
 
 ### Languages and Tools 🛠️
 
+![Django](https://img.shields.io/badge/-Django-092E20?&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Flutter](https://img.shields.io/badge/-FLUTTER-02569B?logo=flutter&logoColor=white&style=fot-the-badge)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?&logo=dart)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=streamlit)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?&logo=databricks&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code)
-![Django](https://img.shields.io/badge/-Django-092E20?&logo=django&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-FF3621?&logo=databricks&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?&logo=mlflow&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ---
 
