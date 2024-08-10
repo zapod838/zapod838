@@ -1,10 +1,10 @@
 ## Hello, I'm Manish! 👋
 
 ### About Me 🌐
-- 🎓 I'm currently studying Business Analytics at University College Cork, Ireland.
-- 🔭 I’m currently working on RSNA Breast Cancer Detection Project.
-- 👯 I’m looking to collaborate on integrating AI in healthcare/Sports/Law/Finance.
-- 🌱 I can develop Flutter/React/Django applications.
+- 🎓 Studying Business Analytics at University College Cork, Ireland.
+- 🔭 Working on Ocular Mobile Application, Football/MLB/NFL Deep learning model and Web application for workouts/recipes/diet plans.
+- 👯 Looking to collaborate on integrating AI in healthcare/Sports/Law/Finance.
+- 🌱 Can develop Flutter/React/Django applications.
 - 💬 Ask me about AI/ML/LLMs.
 - 📫 How to reach me: Ping me on [Linkdin](https://www.linkedin.com/in/manish-kamble-47840a234/)
 
