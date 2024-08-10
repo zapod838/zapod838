@@ -2,7 +2,7 @@
 
 ### About Me 🌐
 - 🎓 Studying Business Analytics at University College Cork, Ireland.
-- 🔭 Working on Ocular Mobile Application, developing Football/MLB/NFL Deep learning models and Web application for workouts/recipes/diet plans.
+- 🔭 Working on Ocular Mobile Application, Football/MLB/NFL Deep learning models and Web application for workouts/recipes/diet plans.
 - 👯 Looking to collaborate on integrating AI in healthcare/Sports/Law/Finance.
 - 🌱 Can develop Flutter/React/Django applications.
 - 💬 Ask me about AI/ML/LLMs.
