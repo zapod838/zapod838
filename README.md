@@ -3,7 +3,7 @@
 ### About Me 🌐
 - 🎓 Studying Business Analytics at University College Cork, Ireland.
 - 🔭 Working on Ocular Mobile Application, Football/MLB/NFL Deep learning models and Web application for workouts/recipes/diet plans.
-- 👯 Looking to collaborate on integrating AI in healthcare/Sports/Law/Finance.
+- 👯 Looking to collaborate on integrating AI in healthcare/Sports/Law/Finance: [Fiverr](https://www.fiverr.com/manishkamble596)
 - 🌱 Can develop Flutter/React/Django applications.
 - 💬 Ask me about AI/ML/LLMs.
 - 📫 How to reach me: Ping me on [Linkdin](https://www.linkedin.com/in/manish-kamble-47840a234/)
