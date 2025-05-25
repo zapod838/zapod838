@@ -12,10 +12,6 @@
 
 ### Languages and Tools 🛠️
 
-Here is the updated list with Django, Databricks, MLflow, Node.js, and Kubernetes added:
-
-### Languages and Tools 🛠️
-
 ![Django](https://img.shields.io/badge/-Django-092E20?&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes&logoColor=white)
