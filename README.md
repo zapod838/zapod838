@@ -1,7 +1,7 @@
 ## Hello, I'm Manish! 👋
 
 ### About Me 🌐
-- 🎓 Studying Business Analytics at University College Cork, Ireland.
+- 🎓 Data/Business Analyst
 - 🔭 Working on Ocular Mobile Application | Football/MLB/NFL Deep learning models | Web application for workouts/recipes/diet plans.
 - 👯 Looking to collaborate on integrating AI in healthcare/Sports/Supply Chain/Finance : [Fiverr](https://www.fiverr.com/manishkamble596)
 - 🌱 Can develop Flutter/React/Django applications.
